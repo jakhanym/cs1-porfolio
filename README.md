@@ -4,7 +4,7 @@ Projects completed in Computer Science I
 My name is Jakhany. This porfolio includes projects I completed in Computer Science I.
 
 ## Skills Practiced:
--Variables
+- Variables
 -Input and Output
 -If Statements
 -Loops
