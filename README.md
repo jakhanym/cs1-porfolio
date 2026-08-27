@@ -1,6 +1,8 @@
 # jm-porfolio
 Projects completed in Computer Science I
+
 My name is Jakhany. This porfolio includes projects I completed in Computer Science I.
+
 ## Skills Practiced:
 -Variables
 -Input and Output
