@@ -5,10 +5,10 @@ My name is Jakhany. This porfolio includes projects I completed in Computer Scie
 
 ## Skills Practiced:
 - Variables
--Input and Output
--If Statements
--Loops
--Functions
--Lists and Tuples
--File handling
--Object-oriented programming basics
+- Input and Output
+- If Statements
+- Loops
+- Functions
+- Lists and Tuples
+- File handling
+- Object-oriented programming basics
